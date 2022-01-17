@@ -1,8 +1,6 @@
-### Hi there 👋
-Just out here building cool stuff and sometimes saving the world with my code (or from my code...)
+### 😎
 
-
-<img src="https://media0.giphy.com/media/fUXZfIDUl8K7lJJ9KK/giphy.gif" width="480" height="296" />
+<!-- <img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/smiling-face-with-sunglasses.png" width="256" height="256" /> -->
 
 <!--
 **AarC10/AarC10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
