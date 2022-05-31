@@ -1,8 +1,12 @@
-### 😎
+
+[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=AarC10&count_private=true&hide=stars,issues&show_icons=true&theme=tokyonight)]()
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AarC10&show_icons=true&theme=tokyonight&layout=compact)]()
 
 <!-- <img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/smiling-face-with-sunglasses.png" width="256" height="256" /> -->
 
 <!--
+### 😎
 **AarC10/AarC10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
