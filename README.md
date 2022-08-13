@@ -1,7 +1,7 @@
 
 [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=AarC10&count_private=true&hide=stars,issues&show_icons=true&theme=tokyonight)]()
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AarC10&show_icons=true&theme=tokyonight&layout=compact&langs_count=10&hide=Jupyter+Notebook,html,makefile)]()
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AarC10&show_icons=true&count_private=true&theme=tokyonight&layout=compact&langs_count=10&hide=Jupyter+Notebook,html,makefile)]()
 
 <!-- <img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/smiling-face-with-sunglasses.png" width="256" height="256" /> -->
 
